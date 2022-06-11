@@ -5,7 +5,7 @@ Eu sou o Manfrinne Ferreira. Estou ganhando experiência em desenvolvimento de s
 - 🌱 Atualmente estou aprendendo: Docker, AWS, ORMs, Jest e outras tecnologias relacionadas ao back-end.
 - 🕵️‍♂️ Me pergunte sobre: HTML, CSS, JavaScript e NodeJS.
 - 📫 Você pode me encontrar no: [Twitter](https://twitter.com/Manfrinne_R00t) e [Linkedin](https://www.linkedin.com/in/manfrinne-ferreira-6033121a7/)
-- 🇺🇲 Idiomas: Inglês Intermediário.
+- 🇺🇲 Idiomas: Inglês Intermediário e praticando pra melhorar.
 
 <!--
 **Manfrinne/Manfrinne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
