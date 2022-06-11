@@ -1,10 +1,11 @@
-### Desenvolvedor Backend 🔭
+### Desenvolvedor Backend 👨‍💻
 
 Eu sou o Manfrinne Ferreira. Estou ganhando experiência em desenvolvimento de software, gosto muito de tecnologia e resolvi, aos 34 anos de idade, aprender a programar. Atualmente, estou muito focado no ecossistema Javascript, tenho projetos em Nodejs com Express e Typescript, tenho conhecimento em ReactJS e React Native; no banco de dados, já desenvolvi projetos com PostgreSQL, MySQL e MongoDB, tenho conhecimento em Docker, AWS, Jest (para testes unitários) e Swagger (para documentação de APIs), mas estou sempre aberto a aprender coisas novas. 
 
 - 🌱 Atualmente estou aprendendo: Docker, AWS, ORMs, Jest e outras tecnologias relacionadas ao back-end.
-- 😄 Me pergunte sobre: HTML, CSS, JavaScript e NodeJS.
-- 📫 Você pode me encontrar  no: [Twitter](https://twitter.com/Manfrinne_R00t) e [Linkedin](https://www.linkedin.com/in/manfrinne-ferreira-6033121a7/)
+- 🕵️‍♂️ Me pergunte sobre: HTML, CSS, JavaScript e NodeJS.
+- 📫 Você pode me encontrar no: [Twitter](https://twitter.com/Manfrinne_R00t) e [Linkedin](https://www.linkedin.com/in/manfrinne-ferreira-6033121a7/)
+- 🇺🇲 Idiomas: Inglês Intermediário.
 
 <!--
 **Manfrinne/Manfrinne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
