@@ -4,7 +4,7 @@ Eu sou o Manfrinne Ferreira. Estou ganhando experiência em desenvolvimento de s
 
 Algumas informações sobre mim:
 - 🌱 Atualmente estou aprendendo: Docker, AWS, ORMs, Jest e outras tecnologias relacionadas ao back-end.
-- 🕵️‍♂️ HTML, CSS, JavaScript, NodeJS, Lógica e algoritmos.
+- 🕵️‍♂️ Me pergunte sobre: HTML, CSS, JavaScript, NodeJS, Lógica e algoritmos.
 - 🏴 Ethical Hacking Newbie: Gosto de aprender sobre InfoSec em plataformas de CTFs (Capture The Flag).
 - 🇺🇲 Idiomas: Inglês Intermediário e praticando pra melhorar.
 - 📫 Onde você pode me encontrar: [Twitter](https://twitter.com/Manfrinne_R00t) e [Linkedin](https://www.linkedin.com/in/manfrinne-ferreira-6033121a7/)
