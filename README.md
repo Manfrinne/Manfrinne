@@ -6,7 +6,7 @@ Algumas informações sobre mim:
 - 🌱 Atualmente estou aprendendo: Docker, AWS, ORMs, Jest e outras tecnologias relacionadas ao back-end.
 - 🕵️‍♂️ Me pergunte sobre: HTML, CSS, JavaScript, NodeJS, Lógica e algoritmos.
 - 🏴 InfoSec Analist: Gosto de aprender sobre Ethical Hacking em plataformas de CTFs (Capture The Flag).
-- 🇺🇸 Inglês Intermediário.
+- 🇺🇸 Idiomas: Inglês Intermediário.
 - 📫 Onde você pode me encontrar: [Twitter](https://twitter.com/Manfrinne_R00t) e [Linkedin](https://www.linkedin.com/in/manfrinne-ferreira-6033121a7/)
 
 
