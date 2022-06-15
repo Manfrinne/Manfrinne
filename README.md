@@ -1,6 +1,6 @@
 ### Desenvolvedor Backend 👨‍💻
 
-Eu sou o Manfrinne Ferreira. Estou ganhando experiência em desenvolvimento de software, gosto muito de tecnologia e resolvi, aos 34 anos de idade, aprender a programar. Atualmente, estou muito focado no ecossistema Javascript, tenho projetos em Nodejs com Express e Typescript, tenho conhecimento em ReactJS e React Native; no banco de dados, já desenvolvi projetos com PostgreSQL, MySQL e MongoDB, tenho conhecimento em Docker, AWS, Jest (para testes unitários) e Swagger (para documentação de APIs), mas estou sempre aberto a aprender coisas novas. 
+Eu sou o Manfrinne Ferreira. Estou ganhando experiência em desenvolvimento de software, gosto muito de tecnologia e resolvi aprender a programar. Atualmente, estou muito focado no ecossistema Javascript, tenho projetos em Nodejs com Express e Typescript, tenho conhecimento em ReactJS e React Native; no banco de dados, já desenvolvi projetos com PostgreSQL, MySQL e MongoDB, tenho conhecimento em Docker, AWS, Jest (para testes unitários) e Swagger (para documentação de APIs), mas estou sempre aberto a aprender coisas novas. Minha formação acadêmica é em Filosofia e tenho interesse em tópicos relacionados a Filosofia da Ciência, Lógica e Tecnologia.
 
 Algumas informações sobre mim:
 - 🌱 Atualmente estou aprendendo: Docker, AWS, ORMs, Jest e outras tecnologias relacionadas ao back-end.
